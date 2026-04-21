@@ -2,7 +2,7 @@
  <div>
    <a href="https://github.com/Pedrin88">
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Pedrin88&show_icons=true&theme=dark&include_all_commits=true7count_private=true"/>
-   <img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrin88&layout=compact&langs_count=16&theme=dark" />  
+   <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrin88&layout=compact&langs_count=16&theme=dark" />  
  </div>
  
 ## <table align="center">
